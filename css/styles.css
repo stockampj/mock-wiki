@@ -7,3 +7,30 @@
   display: block;
   width: 100px;
 }
+
+.left {
+  display: block;
+  float: left;
+  height: 100px;
+  margin: 8px;
+}
+
+.right {
+  display: block;
+  float: right;
+  height: 100px;
+  margin: 8px;
+}
+
+#green {
+  background-color: #E0FFE5;
+
+}
+
+#blue{
+  background-color: #EEFAFF;
+}
+
+#pink{
+  background-color: #FFE8EE;
+}
